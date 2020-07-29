@@ -16,4 +16,4 @@ The task was to create a password generator that randomly chooses a code that me
   the user's wants 
 * Mobile responsive 
 
-![alt text](PassGen_Mobile)
+
