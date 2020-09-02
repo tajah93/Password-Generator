@@ -8,7 +8,8 @@ The task was to create a password generator that randomly chooses a code that me
 
 *If the user does not choose at least one type of character, they are alerted of their mistake and taken back to the prompts inquiring about the types of characters they would like in their password. 
 
-**Live Link:** 
+**Live Link:** https://tajah93.github.io/Password-Generator/.
+
 ## Features ##
 
 * Password randomizer
